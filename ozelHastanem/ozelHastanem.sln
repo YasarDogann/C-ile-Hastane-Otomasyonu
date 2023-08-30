@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ozelHastanem", "ozelHastanem\ozelHastanem.csproj", "{8B71A712-35D0-48A3-A3B7-21E82CC2A7FE}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Hastane Otomasyon Setup", "Hastane Otomasyon Setup\Hastane Otomasyon Setup.vdproj", "{41D1DD9B-F09B-41BD-94FC-531001084F49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B71A712-35D0-48A3-A3B7-21E82CC2A7FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B71A712-35D0-48A3-A3B7-21E82CC2A7FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B71A712-35D0-48A3-A3B7-21E82CC2A7FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B71A712-35D0-48A3-A3B7-21E82CC2A7FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41D1DD9B-F09B-41BD-94FC-531001084F49}.Debug|Any CPU.ActiveCfg = Debug
+		{41D1DD9B-F09B-41BD-94FC-531001084F49}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1907E73A-4654-425B-B28C-EF4DC09EC23D}
+	EndGlobalSection
+EndGlobal
